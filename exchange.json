@@ -1,0 +1,10 @@
+{
+  "main": "acb_firstapi.raml",
+  "name": "ACB_FirstAPI",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "acb_firstapi",
+  "version": "1.0.0"
+}
